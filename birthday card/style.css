@@ -1,0 +1,109 @@
+body{
+    font-family: 'Happy Monkey', cursive;
+    background-color:whitesmoke;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 0px 0px 2px black;
+   
+}
+
+.card{
+    background: linear-gradient(blue,pink);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   box-shadow: 0px 0px 5px rgb(12, 0, 12);
+   border-radius: 15px;
+ 
+}
+
+.title{
+    width: 130px;
+    border-radius: 50%;
+    border: 6px solid  #EFB0C9;
+}
+.gift-section{
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+.gift-img{
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("img/gift.jpeg");
+    background-size: cover;
+}
+ 
+.gift-img:hover{
+    background-image: url("img/200w.webp");
+}
+
+.gift-img2{
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("img/download\ \(1\).jpeg");
+    background-size: cover;
+}
+ 
+.gift-img2:hover{
+    background-image: url("img/200.webp");
+}
+
+.gift-img3{
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("img/gitcover.jpg");
+    background-size: cover;
+}
+ 
+.gift-img3:hover{
+    background-image: url("img/2001.webp");
+}
+
+.gift-img4{
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("img/gitcover2.jpg");
+    background-size: cover;
+}
+ 
+.gift-img4:hover{
+    background-image: url("img/2002.webp");
+}
+
+
+
+.gift-img5{
+    margin: 0 auto;
+    width: 400px;
+    height: 200px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("img/gift.jpeg");
+    background-size: cover;
+}
+ 
+.gift-img5:hover{
+    background-image: url("img/2001w.webp");
+}
